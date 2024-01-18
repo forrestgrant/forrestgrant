@@ -1,6 +1,4 @@
----
 [:page_facing_up:](https://www.linkedin.com/in/forrestgrant) | [:octocat:](https://www.github.com/forrestgrant) | [:bird:](https://www.twitter.com/forrestgrant) | [:camera:](https://www.instagram.com/forrestgrant) | [:email:](mailto:hello@forrestgrant.com)
----
 
 Hi, I'm Forrest Grant.
 
