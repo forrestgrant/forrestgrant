@@ -1,3 +1,7 @@
+---
+[:page_facing_up:](https://www.linkedin.com/in/forrestgrant) | [:octocat:](https://www.github.com/forrestgrant) | [:bird:](https://www.twitter.com/forrestgrant) | [:camera:](https://www.instagram.com/forrestgrant) | [:email:](mailto:hello@forrestgrant.com)
+---
+
 Hi, I'm Forrest Grant.
 
 I'm a [Cloud Architect](http://www.github.com/forrestgrant) in Boston, MA building resilient systems with [cloud native](https://www.cncf.io/) architecture. My company—[Atlantis Technology](http://www.atlantistech.com/)—and I help similar folks write clean software on elegant infrastructure with technologies such as [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), and [AWS](https://aws.amazon.com/).
