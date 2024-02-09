@@ -1,6 +1,6 @@
 Hi, I'm Forrest Grant.
 
-I'm a [Cloud Architect](http://www.github.com/forrestgrant) in Boston, MA building resilient systems with [cloud native](https://www.cncf.io/) architecture. My company—[Atlantis Technology](http://www.atlantistech.com/)—and I help similar folks write clean software on elegant infrastructure with technologies such as [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), and [AWS](https://aws.amazon.com/).
+I'm a [Cloud Architect](http://www.github.com/forrestgrant) in Boston, MA building resilient systems with [cloud native](https://www.cncf.io/) architecture. I help folks write clean software on elegant infrastructure with technologies such as [Terraform](https://www.terraform.io/), [Kubernetes](https://kubernetes.io/), and [AWS](https://aws.amazon.com/).
 
 When I am not building the future, you can find me [woodworking](http://www.instagram.com/forrestgrant), watching [football](http://www.patriots.com/), or running. I love a well crafted cocktail or coffee; Whisky neat, and coffee black. According to a handful of ceramics, I'm the world's greatest Father and Husband.
 
